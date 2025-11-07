@@ -15,7 +15,7 @@ Este sitio muestra el trabajo y los servicios ofrecidos por LS Consultora, combi
 
 Abre el archivo `index.html` en tu navegador o accede a la versión publicada en GitHub Pages usando la siguiente dirección:
 
-https://lumase 1326.github.io/LS-Consultora
+https://lumase1326.github.io/LS-Consultora
 
 ## Contacto
 
